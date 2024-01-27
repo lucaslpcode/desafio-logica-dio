@@ -20,7 +20,7 @@ Ao final deve-se exibir uma mensagem:
 
 //Variáveis
 let user = "Zed";
-let xp = 7583;
+let xp = 9637;
 let elo;
 
 // Estrutura de decisão escolhida: condicionais
